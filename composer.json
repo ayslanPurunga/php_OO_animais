@@ -1,0 +1,20 @@
+{
+    "name": "ayslan/trabalho_classes",
+    "description": "Trabalho_emergentes",
+    "type": "composer",
+    "authors": [
+        {
+            "name": "luksk",
+            "email": "lukskill@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Alfa\\":"src/"
+        }
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.5"
+    }
+}
